@@ -1,0 +1,13 @@
+{
+  "network": "enron",
+  "assortativity_degree": -0.13653521039178662,
+  "smallworld_n_used": 3718,
+  "smallworld_avg_degree_used": 4.877891339429801,
+  "smallworld_C": 0.29451098687375793,
+  "smallworld_L_approx": 4.7364608555286525,
+  "smallworld_C_rand": 0.0013447074879133455,
+  "smallworld_L_rand_approx": 5.464093868692349,
+  "smallworld_sigma": 252.66080581070807,
+  "smallworld_p_er": 0.0013123194348748455,
+  "kcore_k_max": 12
+}

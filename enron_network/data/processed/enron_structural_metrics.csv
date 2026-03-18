@@ -1,0 +1,2 @@
+network,assortativity_degree,smallworld_n_used,smallworld_avg_degree_used,smallworld_C,smallworld_L_approx,smallworld_C_rand,smallworld_L_rand_approx,smallworld_sigma,smallworld_p_er,kcore_k_max
+enron,-0.13653521039178662,3718,4.877891339429801,0.29451098687375793,4.7364608555286525,0.0013447074879133455,5.464093868692349,252.66080581070807,0.0013123194348748455,12
