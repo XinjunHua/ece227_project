@@ -1,0 +1,2 @@
+To begin analyzing the facebook network, run cells in ./facebook.ipynb. The dataset used for this section can be found at https://snap.stanford.edu/data/ego-Facebook.html.
+Exported .gexf file for Gephi analysis and graphs can be found in ./outputs directory.
